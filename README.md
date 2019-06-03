@@ -1,7 +1,12 @@
 # Weather Finder
 Esta simple app esta desarrollada por mi conforme a la consigna.
 
-Para correr el proyecto:
+Para correr el proyecto directamente:
+- Clonar de github / descargar la carpeta build
+- Abrir index.html
+
+
+Para correr el proyecto en desarrollo:
 
 - Clonar de github
 - En consola con node pararse sobre el proyecto
