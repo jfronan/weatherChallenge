@@ -1,0 +1,14 @@
+.tabletSizeBox {
+    position: relative;
+    width: 360px;
+    height: 480px;
+    background-color: gainsboro;
+    padding: 16px;
+}
+
+.returnArrow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}

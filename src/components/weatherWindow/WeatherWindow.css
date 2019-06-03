@@ -1,0 +1,22 @@
+.labelTitle {
+    line-height: 12px;
+    font-size: 10px;
+    color: grey;
+}
+
+.middleTitle {
+    color: gray;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.topIconsContainer {
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.negativeTopMargin25 {
+    margin-top: -25px
+}
