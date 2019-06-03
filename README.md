@@ -2,7 +2,7 @@
 Esta simple app esta desarrollada por mi conforme a la consigna.
 
 Para correr el proyecto directamente:
-- Clonar de github / descargar la carpeta build
+- Clonar de github / descargar la carpeta build (ver weather-finder.zip en la seccion releases)
 - Abrir index.html
 
 
